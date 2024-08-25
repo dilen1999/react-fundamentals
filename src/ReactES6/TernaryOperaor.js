@@ -1,0 +1,1 @@
+authendicator ? renderApp() : renderLogin()
